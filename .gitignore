@@ -1,0 +1,6 @@
+# Vorige versies van meldingen en CSV's (alleen lokaal bewaard)
+oud/
+
+# Python
+__pycache__/
+*.pyc

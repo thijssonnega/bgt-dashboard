@@ -1,0 +1,13 @@
+{
+  "_toelichting": "Algemene label en uitleg voor verschilmeldingen, voor elk jaarpaar. Gebruikt door voeg_samen.py --vervang-typen. Het jaarpaar staat in de toelichting van elke melding. De ernst moet gelijk zijn aan die in de meldingen.",
+  "groen_afgenomen": {
+    "label": "Groen afgenomen",
+    "ernst": "laag",
+    "uitleg": "Groen is minder geworden tussen de twee beeldjaren die in de toelichting staan: in RGB (ExG) en infrarood (NDVI) is het vlak duidelijk minder groen dan verwacht, na correctie voor de gemiddelde verandering van dezelfde soort groen. Let op: kan ook snoeien, schaduw of droogte zijn."
+  },
+  "groen_toegenomen": {
+    "label": "Groen toegenomen",
+    "ernst": "info",
+    "uitleg": "Groen is meer geworden tussen de twee beeldjaren die in de toelichting staan: in RGB (ExG) en infrarood (NDVI) is het vlak duidelijk groener dan verwacht, na correctie voor de gemiddelde verandering van dezelfde soort groen. Let op: kan ook snoeien, schaduw of droogte in het eerste beeldjaar zijn."
+  }
+}

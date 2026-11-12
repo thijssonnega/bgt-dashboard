@@ -1,0 +1,28 @@
+{
+  "service": "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",
+  "laag": "2023_orthoHR",
+  "crs": "EPSG:28992",
+  "bbox_rd": [
+    131031.75,
+    448975.5,
+    132033.0,
+    449593.0
+  ],
+  "resolutie_m": 0.25,
+  "pixels": [
+    4005,
+    2470
+  ],
+  "formaat_bron": "image/jpeg (WMS GetMap), samengevoegd tot GeoTIFF",
+  "opnameperiode_metadata": "2023-01-01 t/m 2023-06-01",
+  "metadata_uuid": "84ae8387-a93b-4a70-ac5c-6bb47792c1b4",
+  "gedownload_utc": "2026-11-09T12:01:38+00:00",
+  "getmap_urls": [
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=131031.75,449093.00,131531.75,449593.00&WIDTH=2000&HEIGHT=2000&FORMAT=image%2Fjpeg",
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=131531.75,449093.00,132031.75,449593.00&WIDTH=2000&HEIGHT=2000&FORMAT=image%2Fjpeg",
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=132031.75,449093.00,132033.00,449593.00&WIDTH=5&HEIGHT=2000&FORMAT=image%2Fjpeg",
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=131031.75,448975.50,131531.75,449093.00&WIDTH=2000&HEIGHT=470&FORMAT=image%2Fjpeg",
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=131531.75,448975.50,132031.75,449093.00&WIDTH=2000&HEIGHT=470&FORMAT=image%2Fjpeg",
+    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=2023_orthoHR&STYLES=&CRS=EPSG:28992&BBOX=132031.75,448975.50,132033.00,449093.00&WIDTH=5&HEIGHT=470&FORMAT=image%2Fjpeg"
+  ]
+}
